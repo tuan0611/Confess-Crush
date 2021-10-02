@@ -1,0 +1,14 @@
+const CONFIG = {
+    titleWeb: "Hi, Tuan ne",
+    introTitle: 'Hèng dethuong',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao Hèng cứ đi nhầm đường
+    Lạc vào tim tui làm thích tới giờ lun`,
+    btnIntro: 'Bấm dô típ nè :>',
+    title: 'ấn tương đầu tiên của m dới t là gì =)) ',
+    desc: 'Chắc do đepzai ha ',
+    btnYes: 'troi oi depzai lam <33',
+    btnNo: 'Không nhe :3',
+    question: 'còn lí do nào khác khumm<3',
+    btnReply: '... <3',
+    reply: ....
